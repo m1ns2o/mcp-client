@@ -1,0 +1,38 @@
+{
+	"name": "ts",
+	"version": "1.0.0",
+	"main": "dist/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc && copyfiles -u 1 assets/main.exe dist",
+		"start": "node dist/index.js",
+		"dev": "tsx src/index.ts",
+		"dev:watch": "tsx watch src/index.ts",
+		"batch": "tsx src/index.ts batch",
+		"clean": "rimraf dist",
+		"watch": "tsc --watch",
+		"lint": "eslint src/**/*.ts",
+		"lint:fix": "eslint src/**/*.ts --fix",
+		"typecheck": "tsc --noEmit"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "HWP MCP Client - TypeScript implementation",
+	"dependencies": {
+		"axios": "^1.6.5",
+		"tsx": "^4.20.3"
+	},
+	"devDependencies": {
+		"@types/node": "^20.19.9",
+		"@typescript-eslint/eslint-plugin": "^6.16.0",
+		"@typescript-eslint/parser": "^6.16.0",
+		"concurrently": "^8.2.2",
+		"eslint": "^8.56.0",
+		"nodemon": "^3.0.2",
+		"rimraf": "^5.0.5",
+		"typescript": "^5.9.2"
+	},
+	"engines": {
+		"node": ">=16.0.0"
+	}
+}

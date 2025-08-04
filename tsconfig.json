@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		/* 모듈 관련 설정 */
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext",
+		"esModuleInterop": true, // CommonJS 모듈을 ES6 스타일로 가져올 수 있게 함 (필수)
+
+		/* 엄격한 타입 검사 */
+		"strict": true,
+
+		/* 컴파일 옵션 */
+		"outDir": "./dist",
+		"rootDir": "./src",
+
+		/* 기타 */
+		"forceConsistentCasingInFileNames": true,
+		"skipLibCheck": true
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules"]
+}
