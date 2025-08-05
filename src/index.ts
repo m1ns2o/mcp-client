@@ -103,8 +103,10 @@ class MCPClient {
 
 	async start(): Promise<void> {
 		try {
-			this.process = spawn(this.mcpServerPath, [], {
+			const pythonExecutable = path.join(this.mcpServerPath, "myenv", "Scripts", "python.exe");
+			this.process = spawn(pythonExecutable, ["hwp_mcp_stdio_server.py"], {
 				stdio: ["pipe", "pipe", "pipe"],
+				cwd: this.mcpServerPath,
 			});
 
 			Logger.info("MCP 서버가 시작되었습니다.");
@@ -639,7 +641,7 @@ async function runBatchPrompts(): Promise<void> {
 		"문서를 'project_plan.hwp'로 저장해줘",
 	];
 
-	const mcpServerPath = path.join(__dirname, "..", "assets", "main.exe");
+	const mcpServerPath = path.join(__dirname, "..", "hwp-mcp");
 	const client = new HWPPromptClient(mcpServerPath);
 
 	try {
@@ -683,7 +685,7 @@ async function main(): Promise<void> {
 	if (args.length > 0 && args[0] === "batch") {
 		await runBatchPrompts();
 	} else {
-		const mcpServerPath = path.join(__dirname, "..", "assets", "main.exe");
+		const mcpServerPath = path.join(__dirname, "hwp-mcp");
 		const client = new HWPPromptClient(mcpServerPath);
 
 		try {

@@ -1,0 +1,62 @@
+2025-08-05 18:03:46,589 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:03:46,700 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:03:46,701 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:05:05,170 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:05:05,188 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:05:05,188 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:12:17,631 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:12:17,671 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:12:17,672 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:12:17,696 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:12:19,004 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:12:19,831 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:12:20,609 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:12:55,785 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:12:55,803 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:12:55,804 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:12:55,825 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:12:57,078 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:12:57,494 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:12:58,118 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:13:12,800 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:13:12,816 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:13:12,817 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:13:12,838 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:13:14,135 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:13:14,531 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:13:15,207 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:16:24,437 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:16:24,477 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:16:24,478 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:16:24,495 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:16:25,849 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:16:26,287 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:16:26,963 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:16:58,903 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:16:58,920 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:16:58,921 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:16:58,943 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:17:00,254 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:17:00,975 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:17:01,459 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:18:31,468 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:18:31,488 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:18:31,494 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:18:31,532 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:18:32,645 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:18:33,563 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:18:33,999 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 18:19:14,459 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 18:19:14,485 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 18:19:14,487 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 18:19:14,503 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 18:19:15,964 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 18:19:16,679 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 18:19:17,400 - hwp-table-tools - INFO - 표 데이터 입력 완료
+2025-08-05 19:53:19,428 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2025-08-05 19:53:19,471 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2025-08-05 19:53:19,472 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2025-08-05 19:53:19,496 - hwp-mcp-stdio-server - INFO - Creating HwpController instance...
+2025-08-05 19:53:25,239 - hwp-mcp-stdio-server - INFO - Successfully connected to HWP program
+2025-08-05 19:53:26,329 - hwp-table-tools - INFO - Filling table with data: 3 rows, starting at (1, 1)
+2025-08-05 19:53:28,603 - hwp-table-tools - INFO - 표 데이터 입력 완료

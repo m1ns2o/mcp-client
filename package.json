@@ -4,7 +4,7 @@
 	"main": "dist/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "tsc && copyfiles -u 1 assets/main.exe dist",
+		"build": "tsc && copyfiles hwp-mcp/**/* dist",
 		"start": "node dist/index.js",
 		"dev": "tsx src/index.ts",
 		"dev:watch": "tsx watch src/index.ts",
@@ -30,7 +30,8 @@
 		"eslint": "^8.56.0",
 		"nodemon": "^3.0.2",
 		"rimraf": "^5.0.5",
-		"typescript": "^5.9.2"
+		"typescript": "^5.9.2",
+		"copyfiles": "^2.4.1"
 	},
 	"engines": {
 		"node": ">=16.0.0"
