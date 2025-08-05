@@ -107,6 +107,7 @@ class MCPClient {
 			this.process = spawn(pythonExecutable, ["hwp_mcp_stdio_server.py"], {
 				stdio: ["pipe", "pipe", "pipe"],
 				cwd: this.mcpServerPath,
+				// shell: true,
 			});
 
 			Logger.info("MCP 서버가 시작되었습니다.");

@@ -16,6 +16,6 @@
 		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true
 	},
-	"include": ["src/**/*", "hwp-mcp"],
+	"include": ["src/**/*", "src/hwp-mcp"],
 	"exclude": ["node_modules"]
 }
